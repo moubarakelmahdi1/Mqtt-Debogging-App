@@ -1,0 +1,174 @@
+.addButton {
+    margin: 16px;
+    float: right;
+    float: top;
+    margin-top: -10px;
+}
+
+.action {
+    margin: -10px;
+}
+
+.actionsGroup {
+    flex-wrap: wrap;
+    max-height: 150px;
+    overflow-y: scroll;
+    display: flex;
+}
+
+.subscribeButton {
+    margin: 35px;
+}
+
+.subscribesGroup {
+    flex-wrap: wrap;
+    overflow-y: scroll;
+    max-height: 345px;
+    display: flex;
+}
+
+.button {
+    color: white;
+}
+
+.strongTexts {
+    font-weight: bold;
+    font-size: 16px;
+    color: #363636;
+}
+
+#messageDatePopUp {
+    font-size: 14px;
+    color : #7A7A7A;
+    font-style: italic;
+    font-weight: normal;
+}
+
+#logo{
+    width:185px;
+}
+
+.banner{
+    background: #2e2e2e10;
+    padding : 10px;
+    box-shadow: 0px 3px 8px 2px #808080b0;
+}
+
+.iconButton{
+    float:right;
+    z-index : 999;
+}
+
+.parameters{
+    padding-top:17px;
+    font-weight:bold;
+    font-size: 15px;
+}
+
+.Footer{
+    background:#2e2e2e10;
+    PADDING: 20px;
+    box-shadow: 0px 3px 8px 2px #808080b0;
+}
+
+#version{
+    float: right;
+}
+
+.defaultValueButton{
+    float:right;
+}
+
+.userGroups{
+    flex-wrap: wrap;
+    display: flex;
+}
+
+#logoConnect{
+    width:45px;
+    float:right;
+    opacity: 0.33;
+}
+
+.clickableFooter{
+    cursor:grab;
+    margin:10px;
+}
+
+.editButtons{
+    display:flex;
+    margin : -10px;
+}
+
+
+.reloadButton{
+    float : right;
+    width:40px;
+    height: 40px;
+}
+
+.topicInList{
+    margin:10px;
+    font-size: 15px;
+}
+
+.topicList{
+    overflow-y: scroll;
+    word-wrap: break-word;
+}
+
+.subscribeLabels{
+    color : #7A7A7A;
+    font-size: 15px;
+    margin-top: 15px;
+}
+
+.inboxContent{
+    max-width: 88%;
+}
+
+.retainedAndClearButton{
+    position : absolute;
+    z-index: 0;
+    margin-top: 10px;
+}
+
+#messageTopicPopUp{
+    word-wrap: break-word;
+    font-size: 16px;
+}
+
+.messagePopUp{
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+#documentation{
+    float:left;
+    cursor:grab;
+}
+
+.edit{
+    font-size: 18px;
+}
+
+.dialogs{
+    z-index: 20;
+}
+
+.unsubscribe{
+    float:right;
+}
+
+.reloadLogoutButton{
+    display:flex;
+    float:right;
+}
+
+.reloadLogoutText{
+    margin-top:15px;
+    font-weight: bold;
+    color: #0067A0;
+    font-size: 16px;
+
+}
